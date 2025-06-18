@@ -1,4 +1,4 @@
-## Hi there 👋
+These are scripts that were created to complete the final tasks.
 
 <!--
 **FozilaDaminova/FozilaDaminova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
